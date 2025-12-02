@@ -1,0 +1,6 @@
+﻿<Project>
+     <PropertyGroup>
+       <OpenApiGenerateDocuments>false</OpenApiGenerateDocuments>
+       <GenerateDocumentationFile>false</GenerateDocumentationFile>
+     </PropertyGroup>
+   </Project>

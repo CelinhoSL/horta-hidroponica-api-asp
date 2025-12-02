@@ -1,0 +1,6 @@
+@Horta_Api_HostAddress = http://localhost:5237
+
+GET {{Horta_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
